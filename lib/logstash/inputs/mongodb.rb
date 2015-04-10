@@ -334,4 +334,4 @@ class LogStash::Inputs::MongoDB < LogStash::Inputs::Base
     end
   end # def run
 
-end # class LogStash::Inputs::Example
+end # class LogStash::Inputs::MongoDB
